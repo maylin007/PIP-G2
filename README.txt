@@ -1,0 +1,11 @@
+- Data folder contains the original data from LCN and CIR datasets
+- Datasets folder contains the constructed Datasets in DataFrame format. A dictionary is provided for further information
+- LICENSE_CeCILL and LICENSE_ODbL contain the appropriate licenses, more information in Charte_qualité.pdf
+- Charte_qualité.pdf contains the quality cheat sheet
+- Charte_visualisation.ipynb contains the visualisation cheat sheet
+- Dataset_0_creation.ipynb created Dataset 0.
+- Dataset_1_2_creation.ipynb creates Datasets 1 and 2. It contains how to retrieve and re-use the data.
+- Dataset_3_creation.ipynb creates Dataset 3. It contains how to retrieve and re-use the data.
+- Exemple_tableau_de_résultats.pdf contains an example table that illustrate how to visualise results in a table format (for reports).
+- LICENSE contains the CeCILL license for this repository.
+- Tableau_récap.png is the results table example under png format (used in Charte_visualisation.ipynb).
